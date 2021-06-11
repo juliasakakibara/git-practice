@@ -1,3 +1,4 @@
 name: Julia 
 Age: 26 
 Fav food: popcorn
+country: br
